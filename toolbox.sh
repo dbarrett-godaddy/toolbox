@@ -31,7 +31,7 @@ echo "Enter token:"
 read TOKEN
 
 # download and run
-curl -o 'wl.sh' https://$TOKEN@raw.githubusercontent.com/dbarrett-godaddy/toolbox/main/aiowl.sh
+curl -o 'wl.sh' https://$TOKEN@raw.githubusercontent.com/dbarrett-godaddy/tools/main/aiowl.sh
 chmod 700 wl.sh
 sh wl.sh
 
