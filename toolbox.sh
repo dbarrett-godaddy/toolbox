@@ -1,5 +1,4 @@
 #!/bin/bash
-# I'm dumb
 
 # Crayon box
 BLite=$'\033[0;34m'
